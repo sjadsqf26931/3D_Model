@@ -65,7 +65,7 @@
 
 #### 九、3D打印外壳
 
-前往此平台自取
+前往此平台自取[MakerWorld](https://makerworld.com.cn/zh/models/1339414-zhong-xing-f50san-re-dian-chi-zhan-shi-gai-zhuang#profileId-1444233)
 
 ![1750519665617](images/README/1750519665617.png)
 
